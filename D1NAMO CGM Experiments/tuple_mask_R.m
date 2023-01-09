@@ -4,7 +4,7 @@ function A_tilde = tuple_mask_R(Ai, p, ell)
 
 % Parameters
     % Ai:  row of A to be masked
-    % p: probability that Q-tuple will be blocked out
+    % p: probability that l-tuple will be blocked out
     % ell: size of missing tuples
 
 % Obtain size of A
